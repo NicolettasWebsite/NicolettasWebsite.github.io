@@ -1,0 +1,16 @@
+.profile-photo {
+	height: 130px;
+	width: auto;
+border-color: black;
+border-width: thick;
+border-style: dashed;
+}
+
+.kouti {
+	border-color: blue;
+	border-width: medium;
+}
+.koutaki {
+	border-color: blue;
+	border-width: medium;
+}
