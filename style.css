@@ -7,10 +7,45 @@ border-style: dashed;
 }
 
 .kouti {
-	border-color: blue;
-	border-width: medium;
+	border-color: black;
+	border-width: thick;
+	border-style: double;
 }
 .koutaki {
-	border-color: blue;
-	border-width: medium;
+	border-color: black;
+	border-width: thick;
+	border-style: double;
+}
+.gif {
+	height: 360px;
+	width: 230px;
+}
+body {
+background-image: url("https://img.freepik.com/premium-vector/organic-abstract-pastel-shapes-background-memphis-style-background-minimalist-aesthetic_266639-667.jpg?w=360");
+}
+
+.foto {
+	border-color: black;
+	border-style: double;
+	border-width: thick;
+}
+h1 {
+	text-decoration: underline;
+}
+.math {
+	text-decoration: underline;
+}
+.net {
+	text-decoration: underline;
+}
+.lan {
+	text-decoration: underline;
+}
+.fatsa {
+	font-size: large;
+}
+.kartouda {
+	border-color: black;
+	border-style: double;
+	border-width: thick;
 }
