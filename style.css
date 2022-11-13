@@ -34,12 +34,15 @@ h1 {
 }
 .math {
 	text-decoration: underline;
+	color: skyblue;
 }
 .net {
 	text-decoration: underline;
+	color: skyblue;
 }
 .lan {
 	text-decoration: underline;
+	color: skyblue;
 }
 .fatsa {
 	font-size: large;
